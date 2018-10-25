@@ -1,0 +1,16 @@
+{
+  "name": "statpad-app",
+  "private": true,
+  "version": "1.0.0",
+  "description": "statpad desktop app",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron .",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Khanya Keswa <khanya.keswa@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "electron": "^3.0.6"
+  }
+}
